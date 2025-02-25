@@ -51,11 +51,8 @@ To run this app you need to replace api key and storefront url in **lib/utility/
 ## UI Design Credit
 [![N|Solid](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/community/file/892081313681059988?preview=fullscreen)
 
-## Developer
-[![N|Solid](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehul-makwana-430326b9/)
-
 <!-- LICENSE -->
 ## License
-Distributed under the MIT License. See [LICENSE](https://github.com/Tigercoder0218/Shopify-flutter-demo/Shopify-flutter-demo/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE]for more information.
 
 <!-- CONTACT -->
