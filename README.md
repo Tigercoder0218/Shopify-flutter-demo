@@ -4,7 +4,7 @@ Shopify admin rest api demo project.
 
 We are try to use **riverpod** as state management to improve widget rebuilding performance.
 May be at some place we can also improve more performance but for the demo purpose i ignore that.
-You can learn more about riverpod form the [official page](https://riverpod.dev/).
+You can learn more about riverpod form the [official page].
 And let us know you view point on riverpod and which state management you like.
 
 In future we will try to use storefront graphQL api to add more functionality.
@@ -17,8 +17,6 @@ To run this app you need to replace api key and storefront url in **lib/utility/
 ```
 
 ## Android APK
-[![N|Solid](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/mehulmk/Shopify-flutter-demo/blob/main/apk/shopify-app-release.apk)
-
 
 ## Screenshot
 | <img src="https://github.com/mehulmk/Shopify-flutter-demo/blob/main/sreenshot/Screenshot_2021-10-13-16-26-40-39_42b55a4a8d57e92802a15981fbb6e994.jpg">  | <img src="https://github.com/mehulmk/Shopify-flutter-demo/blob/main/sreenshot/Screenshot_2021-10-13-16-26-49-96_42b55a4a8d57e92802a15981fbb6e994.jpg"> | <img src="https://github.com/mehulmk/Shopify-flutter-demo/blob/main/sreenshot/Screenshot_2021-10-13-16-27-47-35_42b55a4a8d57e92802a15981fbb6e994.jpg"> | <img src="https://github.com/mehulmk/Shopify-flutter-demo/blob/main/sreenshot/Screenshot_2021-10-13-16-27-52-80_42b55a4a8d57e92802a15981fbb6e994.jpg"> |
@@ -28,7 +26,7 @@ To run this app you need to replace api key and storefront url in **lib/utility/
 | Account | Product Details | Product List | Category List |
 
 ## State Management Package
-[Riverpod](https://pub.dev/packages/riverpod)
+[Riverpod](https://github.com/Tigercoder0218/Shopify-flutter-demo)
 
 ## Other Helper Packages
  - cached_network_image
@@ -48,7 +46,7 @@ To run this app you need to replace api key and storefront url in **lib/utility/
  - collection
 
 ## Dummy Product
-[GitHub](https://github.com/JoshHighland/shopify-dummy-data/blob/master/shopify_product_import_with_multi_variants_and_images.csv)
+[GitHub](https://github.com/Tigercoder0218/Shopify-flutter-demo)
 
 ## UI Design Credit
 [![N|Solid](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/community/file/892081313681059988?preview=fullscreen)
@@ -58,8 +56,6 @@ To run this app you need to replace api key and storefront url in **lib/utility/
 
 <!-- LICENSE -->
 ## License
-Distributed under the MIT License. See [LICENSE](https://github.com/mehulmk/Shopify-flutter-demo/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Tigercoder0218/Shopify-flutter-demo/Shopify-flutter-demo/blob/main/LICENSE) for more information.
 
 <!-- CONTACT -->
-## Contact
-[Nividata Consultancy](https://www.nividata.com/contact/)
